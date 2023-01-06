@@ -1,5 +1,11 @@
 # preact-render-to-string
 
+## 6.0.0
+
+### Major Changes
+
+- [#241](https://github.com/preactjs/preact-render-to-string/pull/241) [`e8cbf66`](https://github.com/preactjs/preact-render-to-string/commit/e8cbf66b2620842671b5c95817454ff2ddb0e450) Thanks [@developit](https://github.com/developit)! - Improve performance by another 5-10% using `switch` and short-circuiting, and move pretty-printing from into `preact-render-to-string/jsx`.
+
 ## 5.2.6
 
 ### Patch Changes
